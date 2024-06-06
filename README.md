@@ -26,6 +26,7 @@ Esta aplicação foi desenvolvida para ajudar os usuários a organizarem suas ta
 
 ## Página
 ![Página](img/pag-todo.png)
+
 A interface do Todo Avançado é composta por:
 - Um formulário para adicionar novas tarefas.
 - Um formulário de edição, que aparece ao editar uma tarefa existente.
