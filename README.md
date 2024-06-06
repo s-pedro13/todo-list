@@ -3,7 +3,7 @@
 * [Descriçãol](#descrição)
 * [Introdução](#introdução)
 * [Funcionalidades](#funcionalidades)
-* [Página](#página)
+* [Interface](#interface)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Referências](#referências)
 
@@ -24,8 +24,8 @@ Esta aplicação foi desenvolvida para ajudar os usuários a organizarem suas ta
 - Filtrar Tarefas: Opções de filtro para visualizar todas as tarefas, apenas as concluídas ou as pendentes.
 - Armazenamento Local: As tarefas são armazenadas no localStorage do navegador, mantendo os dados entre sessões.
 
-## Página
-![Página](img/pag-todo.png)
+## Interface
+![Interface](img/pag-todo.png)
 
 A interface do Todo Avançado é composta por:
 - Um formulário para adicionar novas tarefas.
