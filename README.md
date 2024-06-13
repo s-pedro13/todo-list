@@ -25,6 +25,7 @@ Esse app foi feito pra ajudar a galera a organizar as tarefas diárias de um jei
 - Armazenamento Local: As tarefas ficam salvas no localStorage do navegador, então não se perdem.
 
 ## Interface
+![Interface](img/pag-todo.png)
 A interface do Todo Avançado tem:
 - Um formulário pra adicionar novas tarefas.
 - Um formulário de edição, que aparece quando você edita uma tarefa.
