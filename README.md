@@ -1,6 +1,6 @@
 # Índice
 
-* [Descriçãol](#descrição)
+* [Descrição](#descrição)
 * [Introdução](#introdução)
 * [Funcionalidades](#funcionalidades)
 * [Interface](#interface)
@@ -10,37 +10,35 @@
 # Todo Avançado
 
 ## Descrição
-O projeto Todo Avançado é uma aplicação de lista de tarefas que permite aos usuários adicionar, editar, marcar como concluídas e remover tarefas. Além disso, possui funcionalidades de pesquisa e filtro para facilitar o gerenciamento das tarefas.
+O projeto Todo Avançado é um app de lista de tarefas onde você pode adicionar, editar, marcar como feitas e apagar tarefas. Tem também busca e filtros pra ajudar a gerenciar tudo.
 
 ## Introdução
-Esta aplicação foi desenvolvida para ajudar os usuários a organizarem suas tarefas diárias de forma eficiente. Com uma interface amigável e intuitiva, é possível gerenciar as tarefas de forma prática, utilizando armazenamento local para preservar os dados entre sessões.
+Esse app foi feito pra ajudar a galera a organizar as tarefas diárias de um jeito eficiente. Com uma interface amigável e intuitiva, dá pra gerenciar tudo de forma prática, usando o armazenamento local do navegador pra salvar as tarefas entre as sessões.
 
 ## Funcionalidades
-- Adicionar Tarefa: Permite aos usuários adicionar novas tarefas à lista.
-- Editar Tarefa: Possibilita a edição de tarefas existentes.
-- Marcar como Concluída: Os usuários podem marcar tarefas como concluídas.
-- Remover Tarefa: É possível remover tarefas da lista.
-- Pesquisar Tarefas: Ferramenta de pesquisa para encontrar tarefas específicas.
-- Filtrar Tarefas: Opções de filtro para visualizar todas as tarefas, apenas as concluídas ou as pendentes.
-- Armazenamento Local: As tarefas são armazenadas no localStorage do navegador, mantendo os dados entre sessões.
+- Adicionar Tarefa: Adiciona novas tarefas na lista.
+- Editar Tarefa: Edita tarefas que já estão na lista.
+- Marcar como Concluída: Marca tarefas como feitas.
+- Remover Tarefa: Apaga tarefas da lista.
+- Pesquisar Tarefas: Busca por tarefas específicas.
+- Filtrar Tarefas: Filtra pra ver todas as tarefas, só as concluídas ou só as pendentes.
+- Armazenamento Local: As tarefas ficam salvas no localStorage do navegador, então não se perdem.
 
 ## Interface
-![Interface](img/pag-todo.png)
-
-A interface do Todo Avançado é composta por:
-- Um formulário para adicionar novas tarefas.
-- Um formulário de edição, que aparece ao editar uma tarefa existente.
-- Uma barra de ferramentas com opções de pesquisa e filtro.
+A interface do Todo Avançado tem:
+- Um formulário pra adicionar novas tarefas.
+- Um formulário de edição, que aparece quando você edita uma tarefa.
+- Uma barra de ferramentas com opções de busca e filtro.
 - Uma lista onde as tarefas são exibidas.
 
 ## Tecnologias Utilizadas
-- HTML: Estrutura da aplicação.
-- CSS: Estilos visuais da aplicação.
-- JavaScript: Lógica e funcionalidades da aplicação.
-- Font Awesome: Ícones utilizados nos botões de ação.
+- HTML: Estrutura do app.
+- CSS: Estilos visuais do app.
+- JavaScript: Lógica e funcionalidades do app.
+- Font Awesome: Ícones usados nos botões de ação.
 - localStorage: Armazenamento das tarefas no navegador.
 
 ## Referências
-- [Font Awesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css): Biblioteca de ícones utilizada na aplicação.
+- [Font Awesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css): Biblioteca de ícones usada no app.
 - [MDN Web Docs](https://developer.mozilla.org/): Documentação sobre HTML, CSS e JavaScript.
 - [W3Schools](https://www.w3schools.com/): Tutoriais e exemplos sobre desenvolvimento web.
