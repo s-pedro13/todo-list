@@ -13,7 +13,7 @@
 O projeto Todo Avançado é um app de lista de tarefas onde você pode adicionar, editar, marcar como feitas e apagar tarefas. Tem também busca e filtros pra ajudar a gerenciar tudo.
 
 ## Introdução
-Esse app foi feito pra ajudar a galera a organizar as tarefas diárias de um jeito eficiente. Com uma interface amigável e intuitiva, dá pra gerenciar tudo de forma prática, usando o armazenamento local do navegador pra salvar as tarefas entre as sessões.
+Esse app foi feito pra ajudar as pessoas a organizarem as tarefas diárias de um jeito eficiente. Com uma interface amigável e intuitiva, dá pra gerenciar tudo de forma prática, usando o armazenamento local do navegador pra salvar as tarefas entre as sessões.
 
 ## Funcionalidades
 - Adicionar Tarefa: Adiciona novas tarefas na lista.
